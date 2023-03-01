@@ -1,6 +1,6 @@
-Hello there 👋, I'm Waael
+ #Hello there 👋, I'm Waael
 
-I am a DevOps engineer who has a strong foundation in Terraform, GitLab, AWS, and Linux. I'm passionate about automation and enjoy leveraging Infrastructure as Code (IaaC) to provision secure and scalable infrastructures that meet the needs of modern software development teams.
+ I am a DevOps engineer who has a strong foundation in Terraform, GitLab, AWS, and Linux. I'm passionate about automation and enjoy leveraging Infrastructure as Code (IaaC) to provision secure and scalable infrastructures that meet the needs of modern software development teams.
 
 My goal is to continue developing my skills and expertise in containerized technologies such as Docker and Kubernetes, as well as configuration management tools like Ansible. I believe that these technologies are essential for building resilient and efficient infrastructure that can support the needs of dynamic and rapidly-evolving software projects.
 
