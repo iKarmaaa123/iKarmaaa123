@@ -5,8 +5,24 @@
 My goal is to continue developing my skills and expertise in containerized technologies such as Docker and Kubernetes, as well as configuration management tools like Ansible. I believe that these technologies are essential for building resilient and efficient infrastructure that can support the needs of dynamic and rapidly-evolving software projects.
 
 I'm committed to staying up-to-date with the latest trends and best practices in the DevOps community, and I'm always eager to learn new things and share my knowledge with others.
+ <h1 align="center">Hi 👋, I'm Waael</h1>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
-Languages and tools that I know:
+- 🔭 I’m currently working on a CI/CD Pipeline project **Deploying a Java application to AWS using GitLab**
+
+- 📄 Know about my experiences **file:///C:/Users/Waael/Documents/Waael's%20CV/Waael's%20Tech%20CV%20-%20ma**
+
+- 📫 How to reach me **waael@hotmail.co.uk**
+
+- 👨‍💻 All of my projects are available at **https://github.com/iKarmaaa123**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/waael-al-yaffi-181785245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waael-al-yaffi-181785245/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 
