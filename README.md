@@ -9,7 +9,7 @@ I'm committed to staying up-to-date with the latest trends and best practices in
 
 
 
-- 🔭 I’m currently working on a CI/CD Pipeline project **Deploying a Java application to AWS using GitLab**
+- 🔭 I’m currently working on a CI/CD Pipeline project - **Deploying a Java application to AWS using GitLab**
 
 - 📄 Know about my experiences **file:///C:/Users/Waael/Documents/Waael's%20CV/Waael's%20Tech%20CV%20-%20ma**
 
