@@ -7,16 +7,6 @@ My goal is to continue developing my skills and expertise in containerized techn
 
 I'm committed to staying up-to-date with the latest trends and best practices in the DevOps community, and I'm always eager to learn new things and share my knowledge with others.
 
-
-
-- 🔭 I’m currently working on a CI/CD Pipeline project - **Deploying a Java application to AWS using GitLab**
-
-- 📄 Know about my experiences **file:///C:/Users/Waael/Documents/Waael's%20CV/Waael's%20Tech%20CV%20-%20ma**
-
-- 📫 How to reach me **waael@hotmail.co.uk**
-
-- 👨‍💻 All of my projects are available at **https://github.com/iKarmaaa123**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waael-al-yaffi-181785245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waael-al-yaffi-181785245/" height="30" width="40" /></a>
