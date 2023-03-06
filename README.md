@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waael</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">A passionate DevOps Engineer who strives to learn new technologies</h3>
 
  I am a DevOps engineer who has a strong foundation in Terraform, GitLab, AWS, and Linux. I'm passionate about automation and enjoy leveraging Infrastructure as Code (IaaC) to provision secure and scalable infrastructures that meet the needs of modern software development teams.
 
