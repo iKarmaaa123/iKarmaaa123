@@ -1,4 +1,4 @@
- <h4>Hello there 👋, I'm Waael<h4>
+<h1 align="center">Hi 👋, I'm Waael</h1>
 
  I am a DevOps engineer who has a strong foundation in Terraform, GitLab, AWS, and Linux. I'm passionate about automation and enjoy leveraging Infrastructure as Code (IaaC) to provision secure and scalable infrastructures that meet the needs of modern software development teams.
 
