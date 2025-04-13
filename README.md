@@ -15,9 +15,9 @@ I'm committed to staying up-to-date with the latest trends and best practices in
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=stars&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iKarmaaa123&show_icons=true&count_private=true&hide=stars&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKarmaaa123&layout=compact&langs_count=8&theme=default)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
