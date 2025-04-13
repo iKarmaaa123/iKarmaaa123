@@ -15,9 +15,18 @@ I'm committed to staying up-to-date with the latest trends and best practices in
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?iKarmaaa123=vn7n24fzkq&theme=default)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKarmaaa123&layout=compact&langs_count=8&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iKarmaaa123&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKarmaaa123&theme=default" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
