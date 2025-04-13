@@ -15,15 +15,13 @@ I'm committed to staying up-to-date with the latest trends and best practices in
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iKarmaaa123&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=stars&theme=default" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKarmaaa123&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=default" />
     </td>
   </tr>
 </table>
