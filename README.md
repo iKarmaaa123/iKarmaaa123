@@ -28,5 +28,5 @@ I'm committed to staying up-to-date with the latest trends and best practices in
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/waael-al-yaffi-181785245/" target="https://www.linkedin.com/in/waael-al-yaffi-181785245/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waael-al-yaffi-181785245/" height="30" width="40" /> 
+<a href="https://www.linkedin.com/in/waael-al-yaffi" target="https://www.linkedin.com/in/waael-al-yaffi"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waael-al-yaffi-181785245/" height="30" width="40" /> 
 </p>
