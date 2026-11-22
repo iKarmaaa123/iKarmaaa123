@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waael</h1>
 <h3 align="center">A passionate Platform Engineer who strives to learn new technologies</h3>
 
-I am a Platform Engineer who has a strong foundation in Terraform, GitLab, AWS, and Linux. I'm passionate about automation and enjoy leveraging Infrastructure as Code (IaaC) to provision secure and scalable infrastructure that meets the needs of modern software development teams.
+I am a Platform Engineer who has experience in Terraform, GitHub Actions, AWS, Docker, and Python. I'm passionate about automation and enjoy leveraging Infrastructure as Code (IaaC) to provision secure and scalable infrastructure that meets the needs of modern software development teams.
 
-My goal is to continue developing my skills and expertise in containerised technologies such as Docker and Kubernetes, as well as configuration management tools like Ansible. I believe that these technologies are essential for building resilient and efficient infrastructure that can support the needs of dynamic and rapidly-evolving software projects.
+My goal is to continue developing my skills and expertise in container orchestration tools such as Kubernetes and configuration management tools like Ansible. I believe that these technologies are essential for building resilient and efficient infrastructure that can support the needs of dynamic and rapidly-evolving software projects.
 
 I'm committed to staying up-to-date with the latest trends and best practices in the DevOps community, and I'm always eager to learn new things and share my knowledge with others.
 
@@ -19,7 +19,7 @@ I'm committed to staying up-to-date with the latest trends and best practices in
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Upcoming Skill Enhancements:</h3>
+<h3 align="left">Tools that I am currently upskilling in:</h3>
 <p align="left">
   <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
