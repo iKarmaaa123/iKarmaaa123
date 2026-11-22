@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waael</h1>
 <h3 align="center">A passionate Platform Engineer who strives to learn new technologies</h3>
 
-I am a Platform Engineer who has experience in Terraform, GitHub Actions, AWS, Docker, and Python. I'm passionate about automation and enjoy leveraging Infrastructure as Code (IaaC) to provision secure and scalable infrastructure that meets the needs of modern software development teams.
+I am a Platform Engineer who has experience in Terraform, GitHub Actions, AWS, Docker, and Python. I'm passionate about automation and enjoy leveraging Infrastructure as Code (IaC) to provision secure and scalable infrastructure that meets the needs of modern software development teams.
 
 My goal is to continue developing my skills and expertise in container orchestration tools such as Kubernetes and configuration management tools like Ansible. I believe that these technologies are essential for building resilient and efficient infrastructure that can support the needs of dynamic and rapidly-evolving software projects.
 
